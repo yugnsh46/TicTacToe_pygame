@@ -1,4 +1,3 @@
-#Author: Dhananjay Puranik, Tuffle 2023
 
 #Loading Modules
 import pygame as pg
